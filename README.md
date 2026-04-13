@@ -1,4 +1,4 @@
-# Cyclistic-Cyclist-Behavior-Analysis-and-Optimization
+# Cyclist-Behavior-Analysis-and-Optimization
 
 > End-to-end analysis of 1M+ bike-share trips across Chicago to identify behavioral
 > differences between casual riders and annual members, and recommend data-driven
